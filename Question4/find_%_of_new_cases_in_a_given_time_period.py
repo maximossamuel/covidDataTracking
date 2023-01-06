@@ -1,6 +1,6 @@
 '''
 find_%_of_new_cases_in_a_given_time_period.py
-  Authour(s): Varun Kondam (Maximos Samuel (1184139), Varun Kondam (1177900)
+  Authour(s): Maximos Samuel (1184139), Varun Kondam (1177900)
 
   Project: CIS2250 W22 Project: COVID-19 Data Tracking
   Date of Last Update: Mar 22, 2022
