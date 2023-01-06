@@ -1,0 +1,9 @@
+python Question2/find_percentage_of_ICU_cases.py Question2/Data/cases.csv Question2/Data/status.csv 2021 > Question2/data2021.csv
+
+python Question2/plot_percentage_of_ICU_cases.py Question2/data2021.csv Question2/data2021.pdf
+
+
+
+python Question2/find_percentage_of_ICU_cases.py Question2/Data/cases.csv Question2/Data/status.csv 2022 > Question2/data2022.csv
+
+python Question2/plot_percentage_of_ICU_cases.py Question2/data2022.csv Question2/data2022.pdf
